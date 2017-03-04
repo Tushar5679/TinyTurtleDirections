@@ -1,0 +1,14 @@
+TinyTurtle.apply(window); 
+forward(40);
+right(50);
+forward(54);
+right(79);
+forward(54);
+right(140);
+forward(83);
+left(90);
+forward(50);
+left(90);
+forward(90);
+left(100);
+forward(50);
